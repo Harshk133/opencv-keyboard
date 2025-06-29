@@ -78,3 +78,7 @@ pip install opencv-python mediapipe pyautogui
 
 # Run the app
 python main.py
+```
+
+### Give A 🌟 To Repository!
+
